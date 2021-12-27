@@ -98,7 +98,7 @@ print(result)
 
 # 문자열 자료형
 # \ 사용하면 따옴표 안에 따옴표 사용가능
-data = "Don't you know \"Python\"?"
+data = "Don't you know \"이코테(파이썬)\"?"
 print(data)
 
 # 문자열 연산
