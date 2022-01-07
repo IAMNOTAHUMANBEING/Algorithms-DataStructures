@@ -1,4 +1,4 @@
-# 투 포인터를 이용한 스왑
+# 1. 투 포인터를 이용한 스왑
 
 def reverseString(self, s:List[str]) -> None:
     left, right = 0, len(s) - 1
@@ -7,7 +7,7 @@ def reverseString(self, s:List[str]) -> None:
         left += 1
         right -= 1
 
-# 파이썬다운 방식
+# 2. 파이썬다운 방식
 
 def reverseString2(self, s:List[str]) -> None:
     s.reverse()
