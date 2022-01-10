@@ -28,7 +28,6 @@ def twoSum3(self, nums: List[int], target: int) -> List[int]:
             return nums.index(num), nums_map[target - num]
 
 # 4. 조회 구조 개선
-
 def twoSum4(self, nums: List[int], target: int) -> List[int]:
     nums_map = {}
     for i, num in enumerate(nums):
@@ -51,3 +50,4 @@ def twoSum5(self, nums: List[int], target: int) -> List[int]:
             return left, right
 
 # 인덱스를 구해야하므로 sort를 사용해야 하는 알고리즘으로는 풀 수 없음
+# 또한 모든 답을 구해야할 경우 놓치는 경우가 생김
