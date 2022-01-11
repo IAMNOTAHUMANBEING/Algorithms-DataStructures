@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba0502ac-72a6-45b9-a1fa-4b0217c70f69" name="Changes" comment="빗물 트래핑">
+    <list default="true" id="ba0502ac-72a6-45b9-a1fa-4b0217c70f69" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/1. Two Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/1. Two Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/42. Trapping Rain Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/42. Trapping Rain Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/15. 3Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/15. 3Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,9 @@
     <setting file="file://$PROJECT_DIR$/python_algorithm_interview/1. Two Sum.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="22jWdJQZSdty9NNwL1P0PKH1Zpd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -91,12 +92,20 @@
       <option name="project" value="LOCAL" />
       <updated>1641742162150</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="세 수의 합">
+      <created>1641795581009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641795581009</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="유효한 팰린드롬" />
     <MESSAGE value="빗물 트래핑" />
-    <option name="LAST_COMMIT_MESSAGE" value="빗물 트래핑" />
+    <MESSAGE value="세 수의 합" />
+    <option name="LAST_COMMIT_MESSAGE" value="세 수의 합" />
   </component>
 </project>

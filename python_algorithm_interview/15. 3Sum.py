@@ -1,6 +1,6 @@
-# 완전탐색 -> 시간초과
+# 풀이1. 완전탐색 -> 시간초과
 
-# dict 이용
+# 풀이2. dict 이용
 def threeSum(self, nums: List[int]) -> List[List[int]]:
     result = []
     nums.sort()
@@ -22,7 +22,7 @@ def threeSum(self, nums: List[int]) -> List[List[int]]:
             nums_map[num] += 1
     return result
 
-# default dict 이용하여 개선
+# 풀이3. default dict 이용하여 개선
 from collections import defaultdict
 
 class Solution:
@@ -47,7 +47,7 @@ class Solution:
                 nums_map[num] += 1
         return result
 
-# 투 포인터로 합 계산
+# 풀이4. 투 포인터로 합 계산
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         results = []
