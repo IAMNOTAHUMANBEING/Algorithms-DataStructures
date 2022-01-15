@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ba0502ac-72a6-45b9-a1fa-4b0217c70f69" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/15. 3Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/15. 3Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/234. Palindrome Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/234. Palindrome Linked List.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,13 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641795581009</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=".">
+      <created>1641904956184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641904956184</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="유효한 팰린드롬" />
     <MESSAGE value="빗물 트래핑" />
     <MESSAGE value="세 수의 합" />
-    <option name="LAST_COMMIT_MESSAGE" value="세 수의 합" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
