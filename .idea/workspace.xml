@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba0502ac-72a6-45b9-a1fa-4b0217c70f69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/LinkedList/21. Merge Two Sorted Lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/234. Palindrome Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/234. Palindrome Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/1. Two Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Array/1. Two Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/121. Best Time to Buy and Sell Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Array/121. Best Time to Buy and Sell Stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/125. Valid Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/String/125. Valid Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/15. 3Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Array/15. 3Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/21. Merge Two Sorted Lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/234. Palindrome Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/LinkedList/234. Palindrome Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/238. Product of Array Except Self.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Array/238. Product of Array Except Self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/344. Reverse String.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/String/344. Reverse String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/42. Trapping Rain Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Array/42. Trapping Rain Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/49. Group Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/String/49. Group Anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/5. Longest Palindrome Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/String/5. Longest Palindrome Substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/561. Array Partition.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Array/561. Array Partition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/819. Most Commom Word.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/String/819. Most Commom Word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/937. Reorder Log Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/String/937. Reorder Log Files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +43,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/python_algorithm_interview/15. 3Sum.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/python_algorithm_interview/1. Two Sum.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/python_algorithm_interview/Array/15. 3Sum.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/python_algorithm_interview/Array/1. Two Sum.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="22jWdJQZSdty9NNwL1P0PKH1Zpd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -46,6 +60,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/python_algorithm_interview/15. 3Sum.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\LinkedList" />
+      <recent name="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\Array" />
+      <recent name="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\String" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="15. 3Sum" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="for-coding-test" />
@@ -59,7 +80,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algorithm_interview/15. 3Sum.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\Array\15. 3Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
