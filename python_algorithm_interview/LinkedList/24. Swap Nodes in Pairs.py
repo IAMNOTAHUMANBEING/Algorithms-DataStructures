@@ -34,9 +34,10 @@ class Solution:
 class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head and head.next:
-            head.next = self.swapPairs(head.next.next)
-            head.next.next = head
-            return head.next
+            p = head.next   # p 생성 없이 하면 오류 생김
+            head.next = self.swapPairs(p.next)
+            p.next = head
+            return p
         return head
 # 반복 풀이와 달리 더미 노드나 추가 변수가 필요 없음
 
