@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba0502ac-72a6-45b9-a1fa-4b0217c70f69" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/.vs/ProjectSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/.vs/VSWorkspaceState.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/.vs/python_algorithm_interview/v16/.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/.vs/slnx.sqlite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/.vscode/.vs/.vscode/v16/.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/.vscode/.vs/ProjectSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/.vscode/.vs/VSWorkspaceState.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/.vscode/.vs/slnx.sqlite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/LinkedList/24. Swap Nodes in Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/LinkedList/24. Swap Nodes in Pairs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
