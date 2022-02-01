@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ba0502ac-72a6-45b9-a1fa-4b0217c70f69" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack, Queue/20. Valid Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/20. Valid Parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack, Queue/225. Implement Stack usng Queues.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/225. Implement Stack usng Queues.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack, Queue/316. Remove Duplicate Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/316. Remove Duplicate Letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack, Queue/739. Daily Temperatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/739. Daily Temperatures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack, Queue/Stack, Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/Stack, Queue.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_algorithm_interview/15. 3Sum.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_algorithm_interview/Hash Table/Hash Table.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -58,7 +53,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="15. 3Sum" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="Hash Table" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="for-coding-test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algorithm_interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_algorithm_interview/Hash Table" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\Array\15. 3Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_algorithm_interview/Hash Table/Hash Table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
