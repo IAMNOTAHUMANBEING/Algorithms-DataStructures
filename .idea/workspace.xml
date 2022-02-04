@@ -2,7 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba0502ac-72a6-45b9-a1fa-4b0217c70f69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Hash Table/771. Jewels and Stones.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Array/1. Two Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Array/1. Two Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Array/121. Best Time to Buy and Sell Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Array/121. Best Time to Buy and Sell Stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Array/15. 3Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Array/15. 3Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Array/238. Product of Array Except Self.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Array/238. Product of Array Except Self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Array/42. Trapping Rain Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Array/42. Trapping Rain Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Array/561. Array Partition.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Array/561. Array Partition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Deque&amp; PriorityQueue/23. Merge k Sorted Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Deque&amp; PriorityQueue/23. Merge k Sorted Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Deque&amp; PriorityQueue/641. Design Circular Deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Deque&amp; PriorityQueue/641. Design Circular Deque.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Deque&amp; PriorityQueue/Deque&amp; PriorityQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Deque&amp; PriorityQueue/Deque&amp; PriorityQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Hash Table/706. Design HashMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Hash Table/706. Design HashMap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Hash Table/771. Jewels and Stones.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Hash Table/Hash Table.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Hash Table/Hash Table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/LinkedList/2. Add Two Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/2. Add Two Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/LinkedList/206. Reverse Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/206. Reverse Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/LinkedList/21. Merge Two Sorted Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/21. Merge Two Sorted Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/LinkedList/234. Palindrome Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/234. Palindrome Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/LinkedList/24. Swap Nodes in Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/24. Swap Nodes in Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/LinkedList/328. Odd Even Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/328. Odd Even Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/LinkedList/92. Reverse Linked List 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/92. Reverse Linked List 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/20. Valid Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Stack&amp; Queue/20. Valid Parentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/225. Implement Stack usng Queues.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Stack&amp; Queue/225. Implement Stack usng Queues.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/232. Implement Queue using Stacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Stack&amp; Queue/232. Implement Queue using Stacks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/316. Remove Duplicate Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Stack&amp; Queue/316. Remove Duplicate Letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/622. Design Circular Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Stack&amp; Queue/622. Design Circular Queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/739. Daily Temperatures.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Stack&amp; Queue/739. Daily Temperatures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Stack&amp; Queue/Stack, Queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Stack&amp; Queue/Stack, Queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/String/125. Valid Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/String/125. Valid Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/String/344. Reverse String.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/String/344. Reverse String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/String/49. Group Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/String/49. Group Anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/String/5. Longest Palindrome Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/String/5. Longest Palindrome Substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/String/819. Most Commom Word.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/String/819. Most Commom Word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/String/937. Reorder Log Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/String/937. Reorder Log Files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +61,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/python_algorithm_interview/Array/15. 3Sum.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/python_algorithm_interview/Array/1. Two Sum.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Array/15. 3Sum.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Array/1. Two Sum.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="22jWdJQZSdty9NNwL1P0PKH1Zpd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -47,6 +80,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\Linear Data Structure" />
       <recent name="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\LinkedList" />
       <recent name="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\Array" />
       <recent name="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\String" />
