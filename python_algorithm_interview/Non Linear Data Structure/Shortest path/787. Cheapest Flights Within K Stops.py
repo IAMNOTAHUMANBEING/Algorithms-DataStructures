@@ -1,4 +1,4 @@
-# 풀이1. 다익스트라 알고리즘 구현
+# 풀이1. 다익스트라 알고리즘 응용
 import collections
 import heapq
 

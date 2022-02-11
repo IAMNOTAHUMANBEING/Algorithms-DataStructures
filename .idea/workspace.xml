@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ba0502ac-72a6-45b9-a1fa-4b0217c70f69" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Graph/207. Course Schedule.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Graph/207. Course Schedule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Graph/17. Letter Combinations of a Phone Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Graph/17. Letter Combinations of a Phone Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Shortest path/787. Cheapest Flights Within K Stops.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Shortest path/787. Cheapest Flights Within K Stops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Shortest path/Shortest path.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Shortest path/Shortest path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Tree/543. Diameter of Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Tree/543. Diameter of Binary Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Tree/Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Tree/Tree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

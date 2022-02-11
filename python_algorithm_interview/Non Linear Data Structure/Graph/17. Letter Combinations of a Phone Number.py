@@ -7,9 +7,8 @@ class Solution:
                 return
             
             # 입력값 자릿수 마다 탐색을 반복하며 path에 추가
-            for digit in digits[i]:
-                for j in dic[digit]:
-                    dfs(i + 1, path + j)
+            for j in dic[digits[i]]:
+                dfs(i + 1, path + j)
 
         # 예외 처리
         if not digits:
