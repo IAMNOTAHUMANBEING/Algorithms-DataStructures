@@ -47,6 +47,7 @@ class Solution:
 # 풀이3. 런너를 이용한 풀이
 # 연결 리스트를 순회할 때 2개의 포인터를 동시에 사용하는 기법
 # 한 포인터가 다른 포인터를 앞서게 하여 병합지점이나 중간위치, 길이 등을 판별할 때 유용하다
+# 일반적으로 빠른 런너가 2칸 느린 런너가 1칸씩 이동 -> 빠른 런너가 끝에 도달하면 느린 런너가 중간 지점을 가리키게 됨
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         rev = None

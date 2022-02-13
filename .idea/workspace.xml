@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="ba0502ac-72a6-45b9-a1fa-4b0217c70f69" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/2. Add Two Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/2. Add Two Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/206. Reverse Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/206. Reverse Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/21. Merge Two Sorted Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/21. Merge Two Sorted Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/234. Palindrome Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/234. Palindrome Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/24. Swap Nodes in Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/24. Swap Nodes in Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/328. Odd Even Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/328. Odd Even Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/92. Reverse Linked List 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/92. Reverse Linked List 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +54,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview" />
       <recent name="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\Linear Data Structure" />
       <recent name="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\LinkedList" />
       <recent name="C:\Users\1004\Google Drive\computer_science\github\for-coding-test\python_algorithm_interview\Array" />
