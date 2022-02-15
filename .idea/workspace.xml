@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba0502ac-72a6-45b9-a1fa-4b0217c70f69" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/for-coding-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/for-coding-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/2. Add Two Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/2. Add Two Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/206. Reverse Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/206. Reverse Linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/21. Merge Two Sorted Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/21. Merge Two Sorted Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/234. Palindrome Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/234. Palindrome Linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/24. Swap Nodes in Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/24. Swap Nodes in Pairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/328. Odd Even Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/328. Odd Even Linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/LinkedList/92. Reverse Linked List 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Linked List/92. Reverse Linked List 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Tree/617. Merge Two Binary Trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Tree/617. Merge Two Binary Trees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Tree/Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_algorithm_interview/Non Linear Data Structure/Tree/Tree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +32,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Array/15. 3Sum.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Array/1. Two Sum.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/python_algorithm_interview/Linear Data Structure/Array/15. 3Sum.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="22jWdJQZSdty9NNwL1P0PKH1Zpd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -49,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_algorithm_interview/Hash Table/Hash Table.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">

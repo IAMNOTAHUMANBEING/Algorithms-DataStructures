@@ -12,6 +12,32 @@
 # 자가 균형(높이 균형) 이진 탐색 트리: 삽입, 삭제 시 자동으로 높이를 작게 유지하는 노드 기반의 이진 탐색 트리
 # ex. AVL 트리, 레드-블랙 트리 등
 
+# 트리 순회: 트리 자료구조에서 각 노드를 정확히 한 번 방문하는 과정. 크게 전위NLR 중위LNR 후위LRN로 구분 됨
+# 전위 순회:
+def preorder(node):
+    if node is None:
+        return
+    print(node.val)
+    preorder(node.left)
+    preorder(node.right)
+
+# 중위 순회:
+def inorder(node):
+    if node is None:
+        return
+    inorder(node.left)
+    print(node.val)
+    inorder(node.right)
+
+# 후위 순회:
+def postorder(node):
+    if node is None:
+        return
+    postorder(node.left)
+    postorder(node.right)
+    print(node.val)
+
+
 
 
 
