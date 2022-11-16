@@ -44,20 +44,21 @@ def trap3(self, height: List[int]) -> int:
     volume = 0
 
     for i in range(len(height)):
-        # 변곡점을 만나는 경우
+        # 스택에 값이 있는 상태에서 높이가 이전보다 높아지는 경우 반복하여 이전 위치 탐색
         while stack and height[i] > height[stack[-1]]:
-            # 스택에서 꺼낸다
+            # 이전 높이 꺼내기(조희가 아니라 꺼내는 이유: 변곡점을 만나면 스택에 저장된 이전 위치들을 탐색하며 처리 가능한 물 처리하고 지금 층에서 불가능한 위치들은 남겨둠)
             bottom = stack.pop()
-
+            
+            # 좌측에서 물을 막아줄 칸이 없는 경우 
             if not len(stack):
                 break
 
-            # 이전과의 차이만큼 물 높이 처리
+            # 이전과의 차이만큼 물 처리
             width = i - stack[-1] - 1
-            vertical = min(height[i], height[stack[-1]]) - height[bottom]
+            vertical = min(height[i], height[stack[-1]]) - height[bottom] # 물을 가두는 두 기둥 중 낮은 기둥만큼 물이 차니까
 
             volume += width * vertical
-
+            
         stack.append(i)
     return volume
 
